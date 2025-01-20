@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Poko/static/css/main.2ffc0bd2.css",
-    "main.js": "/Poko/static/js/main.e3899587.js",
+    "main.js": "/Poko/static/js/main.4fa0f86c.js",
     "static/js/453.67bc05c0.chunk.js": "/Poko/static/js/453.67bc05c0.chunk.js",
     "index.html": "/Poko/index.html",
     "main.2ffc0bd2.css.map": "/Poko/static/css/main.2ffc0bd2.css.map",
-    "main.e3899587.js.map": "/Poko/static/js/main.e3899587.js.map",
+    "main.4fa0f86c.js.map": "/Poko/static/js/main.4fa0f86c.js.map",
     "453.67bc05c0.chunk.js.map": "/Poko/static/js/453.67bc05c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ffc0bd2.css",
-    "static/js/main.e3899587.js"
+    "static/js/main.4fa0f86c.js"
   ]
 }
