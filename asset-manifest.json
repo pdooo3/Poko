@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Poko/static/css/main.f423fbfc.css",
+    "main.js": "/Poko/static/js/main.ceae4533.js",
+    "static/js/453.67bc05c0.chunk.js": "/Poko/static/js/453.67bc05c0.chunk.js",
+    "index.html": "/Poko/index.html",
+    "main.f423fbfc.css.map": "/Poko/static/css/main.f423fbfc.css.map",
+    "main.ceae4533.js.map": "/Poko/static/js/main.ceae4533.js.map",
+    "453.67bc05c0.chunk.js.map": "/Poko/static/js/453.67bc05c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f423fbfc.css",
+    "static/js/main.ceae4533.js"
+  ]
+}
